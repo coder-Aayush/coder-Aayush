@@ -7,3 +7,5 @@
 - 💬 Ask me about Flutter, Dart & Tech Related
 - 📫 How to reach me: [Facebook](https://facebook.com/theaayushb)
 - ⚡ Fun fact: I ❤ to Code
+
+![Aayush's github stats](https://github-readme-stats.vercel.app/api?username=coder-Aayush&show_icons=true&theme=dark)
