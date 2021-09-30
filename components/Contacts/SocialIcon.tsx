@@ -4,8 +4,8 @@ import { faCoffee } from '@fortawesome/free-solid-svg-icons'
 import Link from 'next/link'
 export default function SocialIcon(prop:any) {
     return (
-        <Link href={prop.path}>
+        <a href={prop.path} target="_blank">
             <FontAwesomeIcon icon={prop.icon} className="ml-4 text-indigo-500 cursor-pointer" />
-        </Link>
+        </a>
     )
 }
