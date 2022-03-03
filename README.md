@@ -1,6 +1,5 @@
 ### Hola, It's Me The Aayush Bhattarai
 ```dart
-/// Don't Always just comment the stuff
 class Person {
   String fullName = 'Aayush Bhattarai';
   String bio =
