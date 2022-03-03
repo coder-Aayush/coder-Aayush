@@ -1,4 +1,4 @@
-### Hola, It's Me TheAayush
+### Hola, It's Me The Aayush Bhattarai
 ```dart
 /// Don't Always just comment the stuff
 class Person {
