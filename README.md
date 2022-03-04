@@ -24,5 +24,5 @@ class Person {
 }
 ```
 
-### GitHub Stats
-![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-Aayush&show_icons=true&theme=codeSTACKr&border_radius=4)
+### Wasted Half of the Life in Commit
+[![Aayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=coder-Aayush&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
