@@ -24,5 +24,10 @@ class Person {
 }
 ```
 
-### Wasted Half of the Life in Commit
+### Stats
 [![Aayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=coder-Aayush&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=coder-Aayush&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+
