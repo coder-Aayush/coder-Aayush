@@ -15,7 +15,7 @@ class Person {
       'javascript': ['NodeJs', 'ExpressJs'],
     },
     'database': ['MongoDB'],
-    'tools': ['Firebase', 'Appwrite', 'Figma', 'Adobe XD'],
+    'tools': ['Firebase', 'Appwrite', 'Figma', 'Adobe XD','Visual Studio Code', 'Android Studio'],
   };
   List<String> contact = ['fb.com/theaayushb', 'theycallmeaayush@gmail.com'];
   String status =
