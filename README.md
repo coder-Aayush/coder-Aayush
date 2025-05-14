@@ -1,4 +1,4 @@
-### Hola, It's Me The Aayush Bhattarai
+### Hola, It's Me Aayush!
 <img align="center" src="https://github.com/coder-Aayush/coder-Aayush/blob/master/aayush%20Bhattarai%20linkedin.png?raw=true" alt="Aayush Github"/>
 
 
